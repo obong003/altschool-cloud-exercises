@@ -3,7 +3,7 @@
 ### Your login name: altschool i.e., home directory /home/altschool. The home directory contains the following sub-directories: code, tests, personal, misc Unless otherwise specified, you are running commands from the home directory.
 
 
-![](a.png)
+![](./images/a.png)
 
 
 ![](./images/a2.png)
@@ -54,7 +54,7 @@ K. Create a user with no login shell
 
 L. Disable password based authentication for ssh
 
-![](L.png)
+![](./images/L.png)
 
 M. Disable root login for ssh
 
